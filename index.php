@@ -18,7 +18,7 @@
     <img class="card-img-top" src="img/Builder-2x.png" alt="Creational">
     <div class="card-body">
       <h5 class="card-title">Creational design pattern</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <p class="card-text">Creational design patterns are design patterns that deal with object creation mechanisms, trying to create objects in a manner suitable to the situation. </p>
     </div>
     <div class="card-footer text-center">
       <small class="text-muted"><a class="btn btn-info" href="builder_gui.php" target="_blank">BUILDER</a></small>
@@ -28,7 +28,7 @@
     <img class="card-img-top" src="img/structure-2x.png" alt="Behavioral">
     <div class="card-body">
       <h5 class="card-title">Behavioral Design Patterns</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <p class="card-text">behavioral design patterns are design patterns that identify common communication patterns between objects and realize these patterns.</p>
     </div>
    <div class="card-footer text-center">
       <small class="text-muted"><a class="btn btn-success" style="margin-right: 10px;" href="observer.php" target="_blank">OBSERVER</a><a class="btn btn-success" href="mediator.php" target="_blank">MEDIATOR</a></small>
@@ -38,7 +38,7 @@
     <img class="card-img-top" src="img/Composite-2x.png" alt="Structural">
     <div class="card-body">
       <h5 class="card-title">Structural Design Patterns</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <p class="card-text">Structural Design Patterns are Design Patterns that ease the design by identifying a simple way to realize relationships between entities.</p>
     </div>
     <div class="card-footer text-center">
       <small class="text-muted"><a class="btn btn-danger" href="composite.php" target="_blank">COMPOSITE</a></small>
